@@ -1,0 +1,143 @@
+body{
+    
+	margin: 100px;
+	align-content: center;
+	margin-left: 25%;
+	background-image: url(./PHOTO/logo/img1.jpg);
+	background-size: 120%;
+	ba
+
+}
+
+.container{
+
+	position: relative;
+	margin: 50px;
+	margin-left: -10px;
+	color : #6666FF;
+	border:  black;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	background-color: #EBF5FB;
+	padding: 10px;
+	border-radius: 10px;
+	width: 60%;
+}
+img{
+         
+         width: 80px;
+         border-radius: 40px;
+         position: absolute;
+         margin-top: -47px;
+         right: 250px;
+         border-radius: solid;
+         border-color: orange ;
+
+
+}
+#add{    
+
+
+	 width: 36px;
+	 position: absolute;
+	 left: 2px;
+	 top: 147px;
+
+}
+#call{    
+
+
+	 width: 27px;
+	 position: absolute;
+	 left: 5px;
+	 top: 243px;
+
+}
+#email{    
+
+
+	 width: 34px;
+	 position: absolute;
+	 left: 3px;
+	 top: 336px;
+
+}
+#follow{    
+
+
+	 width: 39px;
+	 position: absolute;
+	 left: 1px;
+	 top: 428px;
+
+}
+h3{
+       font-size: 23px;
+       padding-left: 30px;
+
+
+}
+
+h2{
+       font-size: 35px;
+       font-family: sans-serif;
+       text-align: center;
+
+
+
+}
+
+p{
+      padding-left: 25px;
+      font-size: 20px;
+
+}
+
+a{
+	font-size: 20px;
+	text-decoration: none;
+	color: #6666FF;
+
+
+}
+.link{
+
+
+	text-align: center;
+	margin-left: 30px;
+	padding-left: 20px;
+}
+
+#facebook{
+
+	width: 30px;
+	left: 21px;
+	position: absolute;
+	top: 446px;
+}
+#insta{
+
+	width: 30px;
+	left: 162px;
+	position: absolute;
+	top: 447px;
+}
+#twit{
+
+	width: 36px;
+	left: 300px;
+	position: absolute;
+	top: 445px;
+}
+#you{
+
+	width: 36px;
+	left: 420px;
+	position: absolute;
+	top: 449px;
+}
+
+h4{
+
+	font-size: 20px;
+	color: blueviolet;
+}
